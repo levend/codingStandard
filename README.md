@@ -1,0 +1,4 @@
+codingStandard
+==============
+
+Coding standard
